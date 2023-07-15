@@ -27,14 +27,21 @@
      margin-top: 250px;
 
 }
+.varticel{
+     writing-mode: vertical-lr;
+     font-size: 20px;
+     position: absolute;
+     left: 380px;
+
+}
 
 /* shard common css style start form here  */
 
 .header-container{
      display: flex;
      justify-content: space-around;
-    
-     
+     margin-right: 160px;
+     margin-bottom: 50px;    
 }
 
 img{
@@ -42,7 +49,7 @@ img{
      height: 40vh;   
 }
 .row{
-    
+     position: relative;
      margin: 30px 200px;
      height: 40vh;
      display: flex;
