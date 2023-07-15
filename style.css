@@ -58,6 +58,7 @@ img{
      display: flex;
      justify-content: space-around;
      align-items: center;
+     
 
 }
 .varticel{
@@ -70,7 +71,7 @@ img{
 .varticel-2{
      writing-mode: vertical-lr;
      position: absolute;
-     left: 850px;
+     left: 870px;
 }
 .varticel-3{
      writing-mode: vertical-lr;
@@ -86,12 +87,22 @@ img{
 .varticel-5{
      writing-mode: vertical-lr;
      position: absolute;
-     left: 850px;
+     left: 870px;
 }
 .varticel-6{
      writing-mode: vertical-lr;
      position: absolute;
      right: 50px;
 }
+
+footer .primary-dctp{
+     text-align: center;
+     margin-top: 200px;
+     color: rgba(0, 0, 116, 0.795);
+     
+}
+
+/* end design  */
+/* responsive */
 
 
