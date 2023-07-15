@@ -1,0 +1,26 @@
+.body{
+     font-family: sans-serif;
+     
+}
+.header-container{
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+}
+
+/* shard common css style start form here  */
+.primary-titl{
+     color: rgba(0, 0, 0, 0.676);
+     font-size: 30px;
+     line-height: 30px;
+     font-weight: 600;
+}
+.primary-dctp{
+     color: rgba(0, 0, 0, 0.676);
+     font-size: 15px;
+     line-height: normal;
+     font-weight: 400;
+}
+
+
+/* shard common css style start form here  */
