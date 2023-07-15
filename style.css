@@ -27,13 +27,7 @@
      margin-top: 250px;
 
 }
-.varticel{
-     writing-mode: vertical-lr;
-     font-size: 20px;
-     position: absolute;
-     left: 380px;
 
-}
 
 /* shard common css style start form here  */
 
@@ -58,7 +52,7 @@ img{
      margin-bottom: 200px;
 }
 .row-2{
-    
+     position: relative;
      margin: 30px 200px;
      height: 40vh;
      display: flex;
@@ -66,4 +60,38 @@ img{
      align-items: center;
 
 }
+.varticel{
+     writing-mode: vertical-lr;
+     font-size: 20px;
+     position: absolute;
+     left: 380px;
+}
+
+.varticel-2{
+     writing-mode: vertical-lr;
+     position: absolute;
+     left: 850px;
+}
+.varticel-3{
+     writing-mode: vertical-lr;
+     position: absolute;
+     right: 50px;
+}
+.varticel-4{
+     writing-mode: vertical-lr;
+     font-size: 20px;
+     position: absolute;
+     left: 380px;
+}
+.varticel-5{
+     writing-mode: vertical-lr;
+     position: absolute;
+     left: 850px;
+}
+.varticel-6{
+     writing-mode: vertical-lr;
+     position: absolute;
+     right: 50px;
+}
+
 
